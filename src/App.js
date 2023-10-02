@@ -12,6 +12,8 @@ import Footer from './Footer/Footer';
 import LoginPage from './LoginPage/LoginPage';
 import AboutPage from './AboutPage/AboutPage';
 
+
+
 function App() {
   return (
     <Router>
